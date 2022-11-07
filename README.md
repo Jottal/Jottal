@@ -1,4 +1,4 @@
-<img src="https://media.discordapp.net/attachments/558408423943700512/1039090308723515522/Lucca_Web_developer_2.gif">
+<img width="100%" src="https://media.discordapp.net/attachments/558408423943700512/1039102359399309332/Lucca_Web_developer_2_1.gif">
 
 <h1 align="center"></h1>
 
