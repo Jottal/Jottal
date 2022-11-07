@@ -1,16 +1,16 @@
 <img width="100%" src="https://cdn.discordapp.com/attachments/558408423943700512/1039103799027056660/Lucca_Web_developer_2_1-min.gif">
 
 <div align="center" dir="auto">
-<a href="https://www.linkedin.com/in/luccaschmitz/" rel="nofollow">
+<a target="_blank" href="https://www.linkedin.com/in/luccaschmitz/" rel="nofollow">
 <img width="32px" alt="Linkedin" title="Linkedin" src="https://media.discordapp.net/attachments/558408423943700512/1039171928616865934/icons8-linkedin-circundado-60.png" style="max-width: 100%;">
 </a>
-<a href="https://www.instagram.com/lucca.schmitz/" rel="nofollow">
+<a target="_blank" href="https://www.instagram.com/lucca.schmitz/" rel="nofollow">
 <img width="32px" alt="Instagram" title="Instagram" src="https://media.discordapp.net/attachments/558408423943700512/1039173312590381076/icons8-instagram-60.png" style="max-width: 100%;">
 </a>
-<a href="https://discord.gg/7ZNzYvFTZy" rel="nofollow">
+<a target="_blank" href="https://discord.gg/7ZNzYvFTZy" rel="nofollow">
 <img width="32px" alt="Discord" title="Discord" src="https://media.discordapp.net/attachments/558408423943700512/1039173761036996648/icons8-logo-discord-48.png" style="max-width: 100%;">
 </a>
-<a href="https://twitter.com/JoaLucca" rel="nofollow">
+<a target="_blank" href="https://twitter.com/JoaLucca" rel="nofollow">
 <img width="32px" alt="Twitter" title="Twitter" src="https://media.discordapp.net/attachments/558408423943700512/1039173761703886858/icons8-twitter-48.png" style="max-width: 100%;">
 </a>
 </div>
@@ -45,7 +45,7 @@
 
 <br>
 
-# 🔥 Github stats
+## 🔥 Github stats
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/luccaschmitz/">
 <img align="right" width="44%" src="https://media.discordapp.net/attachments/558408423943700512/1039167281969758288/VOCE_PRECISA_EXPERIMENTAR_NOSSA_NOVA_RECEITA.gif" style="max-width: 100%; border-radius: 3%">
