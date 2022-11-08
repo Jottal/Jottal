@@ -1,21 +1,6 @@
 <img width="100%" src="https://cdn.discordapp.com/attachments/558408423943700512/1039103799027056660/Lucca_Web_developer_2_1-min.gif">
 
-<div align="center" dir="auto">
-<a target="_blank" href="https://www.linkedin.com/in/luccaschmitz/" rel="nofollow">
-<img width="32px" alt="Linkedin" title="Linkedin" src="https://media.discordapp.net/attachments/558408423943700512/1039171928616865934/icons8-linkedin-circundado-60.png" style="max-width: 100%;">
-</a>
-<a target="_blank" href="https://www.instagram.com/lucca.schmitz/" rel="nofollow">
-<img width="32px" alt="Instagram" title="Instagram" src="https://media.discordapp.net/attachments/558408423943700512/1039173312590381076/icons8-instagram-60.png" style="max-width: 100%;">
-</a>
-<a target="_blank" href="https://discord.gg/7ZNzYvFTZy" rel="nofollow">
-<img width="32px" alt="Discord" title="Discord" src="https://media.discordapp.net/attachments/558408423943700512/1039173761036996648/icons8-logo-discord-48.png" style="max-width: 100%;">
-</a>
-<a target="_blank" href="https://twitter.com/JoaLucca" rel="nofollow">
-<img width="32px" alt="Twitter" title="Twitter" src="https://media.discordapp.net/attachments/558408423943700512/1039173761703886858/icons8-twitter-48.png" style="max-width: 100%;">
-</a>
-</div>
-
-<br>
+<h1 align="center"></h1>
 
 #### Hi 👋, I am Lucca a full stack developer and community manager. I specialise in Web Development, JavaScript and Design. I love to network, develop and add value ✨
 
@@ -32,7 +17,7 @@
 <p>🔭 I’m currently on a journey to build great things</p>
 </li>
 <li>
-<p>👨‍💻 All of my projects are available at <a href="https://github.com/Jottal](https://github.com/Jottal" style="font-weight: bold; background-color: #618ED9; padding: 2px; border-radius: 2px; color: white">Here</a></p>
+<p>👨‍💻 All of my projects are available at <a href="https://github.com/LuccaSchmitz" style="font-weight: bold; background-color: #618ED9; padding: 2px; border-radius: 2px; color: white">Here</a></p>
 </li>
 <li>
 <p>💬 Ask me about React, Node, Javascript and Typescript</p>
@@ -45,15 +30,15 @@
 
 <br>
 
-## 🔥 Github stats
+# 🔥 Github stats
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/luccaschmitz/">
+<a target="_blank" rel="noopener noreferrer nofollow" href="">
 <img align="right" width="44%" src="https://media.discordapp.net/attachments/558408423943700512/1039167281969758288/VOCE_PRECISA_EXPERIMENTAR_NOSSA_NOVA_RECEITA.gif" style="max-width: 100%; border-radius: 3%">
 </a>
 <p dir="auto">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=jottal&show_icons=true&theme=tokyonight" />
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jottal&layout=compact&theme=tokyonight" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=LuccaSchmitz&show_icons=true&theme=tokyonight" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaSchmitz&layout=compact&theme=tokyonight" />
 </a>
 </p>
 
@@ -63,7 +48,7 @@
 
 <div dir="auto">
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://activity-graph.herokuapp.com/graph?username=Jottal&theme=tokyo-night" style="max-width: 100%;">
+<img src="https://activity-graph.herokuapp.com/graph?username=LuccaSchmitz&theme=tokyo-night" style="max-width: 100%;">
 </a>
 </div>
 
@@ -74,7 +59,7 @@
 </div>
 <br>
 <div align="center" dir="auto">
-<img src="https://profile-counter.glitch.me/jottal/count.svg">
+<img src="https://profile-counter.glitch.me/LuccaSchmitz/count.svg">
 </div>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
